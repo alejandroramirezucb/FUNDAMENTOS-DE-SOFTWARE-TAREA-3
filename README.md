@@ -1,0 +1,41 @@
+# MATERIA: FUNDAMENTOS DE SOFTWARE
+# ESTUDIANTE: ALEJANDRO RAMIREZ VALLEJOS
+# TAREA 3:
+# 1. INTRODUCCION
+# 1.1. ALCANCE DEL PRODUCTO
+## LISTA DE TAREAS
+* Escoger Influencer.
+* Diseños Graficos/Web:
+* Buscar Recursos Graficos (Foto de Perfil, Imagen de Fondo, etc.)
+* Escoger Paleta de Colores.
+
+## INFO DEL CLIENTE
+* Buscar Información de del perfil del cliente
+* Buscar redes sociales.
+* Buscar Productos y Servicios a vender del cliente.
+
+## BENEFICIOS
+* Mayor alcance al público.
+* Información detallada de sus productos y servicios, con facil acceso al usuario.
+
+## OBJETIVO GENERAL
+* Crear una página sencilla de sus mejores productos para mejorar a la venta de su cliente.
+
+## OBJETIVOS EN ESPECIFICO
+* Establecar la metrica a evaluar
+* Componer los reportes de metrica
+* Componer su pafina estilo linktree
+
+## METAS
+* Una página estilo Linktree
+* Reportes mensuales de la metrica
+# 1.2. VALOR DEL PRODUCTO
+* Mayor alcance al público.
+* Información detallada de sus productos y servicios.
+# 1.3. PUBLICO OBJETIVO
+* Mujeres jovenes
+# 1.4. USO PREVISTO
+* El público objetivo tendra mayor comodidad
+* Y facil acceso a los productos
+# 1.5. DESCRIPCION GENERAL
+* No se realiza
